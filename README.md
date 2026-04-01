@@ -1,17 +1,16 @@
 #  Hi, I'm Mher | AI/ML & Backend Engineer
 
-I am a passionate developer focused on the intersection of **Machine Learning**, **Deep Learning**, and **Robust Backend Systems**. I enjoy turning complex mathematical theories into practical, impactful software solutions.
+I am a passionate developer focused on the intersection of **Machine Learning**, **Deep Learning**, and **Backend Systems**. Bridging the gap between advanced mathematical theory and high-performance software engineering.
 
-### 🛠 Tech Stack & Skills
+###  Tech Stack & Skills
 
-- **Core:** Python, OCaml, OOP, Data Structures & Algorithms
+- **Core:** Python, C#, OOP, Data Structures & Algorithms
 - **AI/ML/DL:** TensorFlow, PyTorch, Scikit-learn, Computer Vision (OpenCV), NLP, CNNs/RNNs
-- **Data Science:** Pandas, NumPy, SciPy, Matplotlib, Seaborn, MLflow
-- **Databases:** PostgreSQL, MySQL, MS SQL Server, MongoDB, Redis
-- **DevOps & Tools:** Docker, Git, Linux, AWS, Apache Spark, Kafka, Nginx
+- **Data Science:** Pandas, NumPy, SciPy, Matplotlib, Seaborn
+- **Databases:** PostgreSQL, MySQL, MS SQL Server
+- **DevOps & Tools:** Docker, Git, Linux, AWS
 
-### 🧠 Interests & Expertise
-* **Advanced Mathematics:** Probability & Mathematical Statistics, Combinatorics, and Number Theory.
+###  Interests & Expertise
 * **Problem Solving:** Predictive Modeling and Real-world AI Applications.
 * **Architecture:** Scalable Backend Systems and API Design.
 
