@@ -21,7 +21,3 @@ I am a passionate developer focused on the intersection of **Machine Learning**,
 ### 🌐 Connect with me
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mhermkrtchyan01@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_HERE) 
-
-<p align="right">
-  <img src="https://visitcount.itsvg.in/api?id=MkrtchyanMher&icon=0&color=0" alt="Visit Count">
-</p>
