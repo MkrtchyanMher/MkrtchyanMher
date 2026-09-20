@@ -1,6 +1,6 @@
-#  Hi, I'm Mher | AI/ML & Backend Engineer
+#  Hi, I'm Mher | AI/ML Engineer
 
-I am a passionate developer focused on the intersection of **Machine Learning**, **Deep Learning**, and **Backend Systems**. Bridging the gap between advanced mathematical theory and high-performance software engineering.
+I am a passionate developer focused on the intersection of **Machine Learning**, **Deep Learning**. Bridging the gap between advanced mathematical theory and high-performance software engineering.
 
 ###  Tech Stack & Skills
 
